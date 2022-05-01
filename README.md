@@ -19,11 +19,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m working as a Fullstack Developer, contributing to frontend and backend for building web applications. My specialty is the frontend building apps.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I study and build my personal apps.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/demetriioog)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-demetrio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/demetriioog)
 
 ---
 
@@ -41,6 +39,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;  
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demetriog&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demetriog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
