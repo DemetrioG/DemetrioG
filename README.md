@@ -12,6 +12,10 @@
 </h1>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
 
 <!--
 **DemetrioG/DemetrioG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
