@@ -15,7 +15,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 - :telescope: I’m working as a Fullstack Developer, contributing to frontend and backend for building web applications. My specialty is the frontend building apps.
 
