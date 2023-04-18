@@ -21,7 +21,7 @@ I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I study and build my personal apps.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-demetrio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/demetriioog)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-demetrio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/demetriodev)
 
 ---
 
